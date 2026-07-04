@@ -137,7 +137,10 @@ Una empresa dedicada a las ventas al pormayor necesita registrar loo siguiente:
 4. We want to keep track of the dependents of each employee for insurance purposes. We keep each dependent's first name, sex, birth date, and relationship to the employee.
 
 ![Ejemplo5](../img/ER/imagen5.jpeg)
+![Ejemplo6](../img/ER/ejercio5(1).jpeg)
+![Ejemplo6](../img/ER/ejercio5(2).png)
 
 ## ejercicio 6
 
 ![Ejemplo6](../img/ER/EJERCICIO6.jpeg)
+![Ejemplo6](../img/ER/ejercicio6.png)
