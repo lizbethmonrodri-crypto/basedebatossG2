@@ -1,6 +1,6 @@
 ## Construccion de BD en SQL Server, Mysql o MariaDB y Postgres
 
-papa la contruccion de objetos de base de datos se utiliza el lenguaje SQL (Structured Query
+para la contruccion de objetos de base de datos se utiliza el lenguaje SQL (Structured Query
 Languague) se divide en **cinco grandes cptegorias**
 
 ## SQL 
@@ -111,6 +111,16 @@ CREATE TABLE nombre_tabla
 
 )
 
-## SQL SERVER
+## Alter table
+
+Permite modificar una tabla existente
+
+puede:
+
+- agregar columnas
+- eliminar columnas
+- modificar columnas
+- agregar restricciones
+- eliminar restricciones
 
 ```
