@@ -1,5 +1,5 @@
 
-
+```sql
 CREATE DATABASE comercializacion;
  go
 
@@ -146,7 +146,7 @@ ADD CONSTRAINT fk_cliente_representante
 FOREIGN KEY (representante_id)
 REFERENCES representante (representante_id);
 GO
-´´´
+```
 
 
 ![Ejemplo1](../../img/construccion/digrama_comercializadora.png)
