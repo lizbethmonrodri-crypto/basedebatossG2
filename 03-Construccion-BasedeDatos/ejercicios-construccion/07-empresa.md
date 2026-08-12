@@ -262,4 +262,4 @@ FOREIGN KEY(subordinado)
 REFERENCES empleado(numempleado);
 GO
 ```
-![Ejercicio1 Construccion](../../img/CONSTRUCCION/empresa.png)
+![Ejercicio7 Construccion](../../img/construccion/digrama-07-salario.png)

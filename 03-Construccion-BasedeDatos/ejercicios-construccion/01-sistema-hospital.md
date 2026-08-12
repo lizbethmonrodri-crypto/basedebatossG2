@@ -39,4 +39,4 @@ FOREIGN KEY (numPaciente)
 REFERENCES paciente(numPaciente);
 GO
 ```
-![Ejercicio1 Construccion](../../img/CONSTRUCCION/image.png)
+![Ejercicio1 Construccion](../../img/construccion/diagrama-01-hostipal.png)

@@ -128,4 +128,4 @@ FOREIGN KEY (ssn)
 REFERENCES employee(ssn);
 GO
 ```
-![Ejercicio1 Construccion](../../img/CONSTRUCCION/ejercicio5primeraversion.png)
+![Ejercicio5 Construccion](../../img/construccion/sistema-05.1-company.png)

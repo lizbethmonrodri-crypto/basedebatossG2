@@ -149,4 +149,4 @@ GO
 ```
 
 
-![Ejemplo1](../../img/construccion/digrama_comercializadora.png)
+![Ejercicio8 Construccion](../../img/construccion/digrama_comercializadora.png)

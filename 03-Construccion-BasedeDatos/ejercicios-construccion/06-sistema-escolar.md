@@ -188,4 +188,4 @@ FOREIGN KEY (numproyecto)
 REFERENCES proyecto(numproyecto);
 GO
 ```
-![Ejercicio1 Construccion](../../img/CONSTRUCCION/ejercicio6.png)
+![Ejercicio6 Construccion](../../img/construccion/diagrama-06-instituto.png)

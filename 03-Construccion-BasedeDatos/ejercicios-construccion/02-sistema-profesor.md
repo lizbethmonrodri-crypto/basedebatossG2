@@ -57,4 +57,4 @@ FOREIGN KEY (profesor)
 REFERENCES profesor(numProfesor);
 GO
 ```
-![Ejercicio2  Construccion](../../img/CONSTRUCCION/ejercicio2.png)
+![Ejercicio2 Construccion](../../img/construccion/diagrama-02-escuela.png)

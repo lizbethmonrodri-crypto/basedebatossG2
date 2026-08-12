@@ -94,4 +94,4 @@ FOREIGN KEY (numProducto)
 REFERENCES producto(numProducto);
 GO
 ```
-![Ejercicio1 Construccion](../../img/CONSTRUCCION/ejercicio4.png)
+![Ejercicio4 Construccion](../../img/construccion/diagrama-04-vantas.png)

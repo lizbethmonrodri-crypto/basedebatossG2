@@ -78,4 +78,4 @@ FOREIGN KEY (claveMateria)
 REFERENCES materia(claveMateria);
 GO
 ```
-![Ejercicio1 Construccion](../../img/CONSTRUCCION/ejercicio3.png)
+![Ejercicio3 Construccion](../../img/construccion/diagrama-03-controlescular.png)

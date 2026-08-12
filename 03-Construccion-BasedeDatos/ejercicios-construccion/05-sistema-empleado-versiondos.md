@@ -143,4 +143,4 @@ FOREIGN KEY (numemploy)
 REFERENCES employee(numemploy);
 GO
 ```
-![Ejercicio1 Construccion](../../img/CONSTRUCCION/ejercicio5segundaversion.png)
+![Ejercicio1 Construccion](../../img/construccion/diagrama-05.2-gestionempresa.png)
